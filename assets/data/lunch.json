@@ -1,0 +1,9 @@
+{
+    "lunch": 
+      [
+        {"name": "Veggie thali","price": "$9.99","calories": "150 calories"},
+        {"name": "Hakka Chinese","price": "$5.99","calories": "180 calories"},
+        {"name": "Chana Bhatura","price": "$7.99","calories": "190 calories"},
+        {"name": "Mango Lassi","price": "$3.99","calories": "100 calories"}
+    ]
+  }

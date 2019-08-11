@@ -1,0 +1,9 @@
+{
+    "breakfast": 
+      [
+        {"name": "Aloo Prantha","price": "$6.99","calories": "154 calories"},
+        {"name": "Paneer Naan","price": "$7.99","calories": "150 calories"},
+        {"name": "Amritsar Naan","price": "$9.99","calories": "200 calories"},
+        {"name": "Lassi","price": "$3.99","calories": "120 calories"}
+    ]
+  }
